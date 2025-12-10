@@ -124,4 +124,4 @@ async def main():
 
 
 if __name__ == "__main__":
-    unzipbot_client.run(main())
+    asyncio.run(main())
