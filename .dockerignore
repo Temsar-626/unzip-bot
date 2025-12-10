@@ -1,9 +1,0 @@
-.git
-**/__pycache__
-*.session
-*.session-journal
-downloads/
-Downloaded/
-Thumbnails/
-unknown_errors.txt
-unzip-bot.log
